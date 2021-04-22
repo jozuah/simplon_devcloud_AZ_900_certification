@@ -2,8 +2,9 @@
 
 # AZ900 certification
 
-Simple google forms tests with correction
-Free and without ads
+Simple google forms tests with corrections.
+
+Free and without ads !
 
 Part 1 : https://forms.gle/zVRcd2pqJXe5v2Mq9 40 questions
 
