@@ -1,3 +1,5 @@
+![](https://d1c2gz5q23tkk0.cloudfront.net/assets/network_events/36921/cover_picture/-default.jpg?1591809817)
+
 # AZ900 certification
 
 Simple google forms tests with correction
