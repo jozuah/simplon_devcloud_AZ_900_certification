@@ -1,0 +1,2 @@
+# simplon_devcloud_AZ_900_certification
+Azure 900 fundamentals tests
